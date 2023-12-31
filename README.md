@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+![image](https://github.com/milkafasikag/ethio-balageru-ecommerce-site/assets/119007476/f29c323e-eba4-4f5c-bafd-0d8de0ef1d7e)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://github.com/milkafasikag/ethio-balageru-ecommerce-site/assets/119007476/b046e8a2-14fe-4fb5-91bd-b7e05afcd9d5)
 
-## Available Scripts
+![image](https://github.com/milkafasikag/ethio-balageru-ecommerce-site/assets/119007476/5cfc522c-5535-4914-b34d-aef6e9df75f3)
 
-In the project directory, you can run:
 
-### `npm start`
+![image](https://github.com/milkafasikag/ethio-balageru-ecommerce-site/assets/119007476/cabc4029-2255-4013-9dee-5c5bc3f415da)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![image](https://github.com/milkafasikag/ethio-balageru-ecommerce-site/assets/119007476/83d6538a-7e12-45eb-acb6-236d522d567c)
+![image](https://github.com/milkafasikag/ethio-balageru-ecommerce-site/assets/119007476/8ec07fb4-d0eb-468d-88d0-3698a7a93c2d)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![image](https://github.com/milkafasikag/ethio-balageru-ecommerce-site/assets/119007476/bfc6c3ec-39f2-4c25-ace9-15e88d87dcd7)
 
-### `npm test`
+![image](https://github.com/milkafasikag/ethio-balageru-ecommerce-site/assets/119007476/d475a1d1-fdb7-4df1-b117-b4dea416be34)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
