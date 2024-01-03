@@ -1,3 +1,6 @@
+using react , express.js , node.js and mongodb
+
+
 ![image](https://github.com/milkafasikag/ethio-balageru-ecommerce-site/assets/119007476/f29c323e-eba4-4f5c-bafd-0d8de0ef1d7e)
 
 ![image](https://github.com/milkafasikag/ethio-balageru-ecommerce-site/assets/119007476/b046e8a2-14fe-4fb5-91bd-b7e05afcd9d5)
